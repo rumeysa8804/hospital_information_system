@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7KMDmNpLzxOS/AiNDsldJIiaYmkgJrDgibi0fTF001eLXhGmJslS2kLmEorI9CHt3fgsciB7l6YC69ZpKRfkQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rumeysa\\source\\repos\\VTY\\VTY\\VTY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rumeysa\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\rumeysa\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\rumeysa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\rumeysa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
